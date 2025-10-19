@@ -15,3 +15,7 @@ Fix race condition
 Add feature flag
 
 # Fix formatting
+
+## Update
+
+Add new endpoint
