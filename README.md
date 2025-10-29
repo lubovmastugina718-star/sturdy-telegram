@@ -19,3 +19,5 @@ Add feature flag
 ## Update
 
 Add new endpoint
+
+# Fix data parsing
