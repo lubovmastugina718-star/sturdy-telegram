@@ -21,3 +21,7 @@ Add feature flag
 Add new endpoint
 
 # Fix data parsing
+
+## Update
+
+Fix memory allocation
