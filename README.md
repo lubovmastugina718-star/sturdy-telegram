@@ -25,3 +25,7 @@ Add new endpoint
 ## Update
 
 Fix memory allocation
+
+## Update
+
+Add new endpoint
