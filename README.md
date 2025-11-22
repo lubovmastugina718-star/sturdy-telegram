@@ -29,3 +29,7 @@ Fix memory allocation
 ## Update
 
 Add new endpoint
+
+## Update
+
+Update environment variables
