@@ -7,3 +7,5 @@ node_modules/
 # Fix memory allocation
 
 # Update tests
+
+# Improve error handling
