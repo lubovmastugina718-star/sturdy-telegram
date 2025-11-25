@@ -33,3 +33,7 @@ Add new endpoint
 ## Update
 
 Update environment variables
+
+## Update
+
+Fix typo in README
