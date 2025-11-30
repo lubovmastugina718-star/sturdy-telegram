@@ -9,3 +9,5 @@ node_modules/
 # Update tests
 
 # Improve error handling
+
+# Fix edge case
