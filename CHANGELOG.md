@@ -7,3 +7,5 @@ Fix memory allocation
 ```
 code example
 ```
+
+# Fix null pointer
