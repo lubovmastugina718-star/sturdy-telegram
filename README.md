@@ -41,3 +41,7 @@ Fix typo in README
 ## Update
 
 Add new endpoint
+
+## Update
+
+Update dependencies
