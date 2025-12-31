@@ -3,3 +3,5 @@ main
 Fix bug in validation
 
 # Update dependencies
+
+# Add configuration options
