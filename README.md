@@ -45,3 +45,7 @@ Add new endpoint
 ## Update
 
 Update dependencies
+
+## Update
+
+Add feature flag
