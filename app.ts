@@ -3,3 +3,5 @@ interface app {
 }
 
 # Update .gitignore
+
+# Add type hints
