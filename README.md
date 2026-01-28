@@ -53,3 +53,7 @@ Add feature flag
 ## Update
 
 Add feature flag
+
+## Update
+
+Fix linting errors
